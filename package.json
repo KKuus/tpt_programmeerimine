@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "tsc"
+  },
   "dependencies": {
     "axios": "^0.27.2"
   }
